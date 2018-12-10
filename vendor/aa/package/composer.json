@@ -1,0 +1,14 @@
+{
+    "name": "aa/package",
+    "description": "aaaaaaaa",
+    "type": "project",
+    "require": {
+         "composer/installers": "~1.0"
+    },
+    "authors": [
+        {
+            "name": "yuxiang",
+            "email": "418404572@qq.com"
+        }
+    ]
+}
